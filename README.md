@@ -28,8 +28,6 @@
 </div>
 
 ### :fire: My Stats :
-<div  align="center">     
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=pbalykov&theme=dark&background=000000" alt="full ststs" /><br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pbalykov&theme=solarized_dark" alt="ststs" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pbalykov&layout=compact&theme=vision-friendly-dark" alt="Top Lang" />
 </div>
