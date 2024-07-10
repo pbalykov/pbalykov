@@ -29,5 +29,5 @@
 </div>
 
 ### :fire: My Stats :
-<center><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pbalykov&theme=solarized_dark" alt="ststs" /></center>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pbalykov&theme=solarized_dark" alt="ststs" align="center" />
 <center><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pbalykov&layout=compact&theme=vision-friendly-dark" alt="Top Lang" /></center>
