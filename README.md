@@ -7,8 +7,7 @@
   </a>
   <a href="https://codeforces.com/profile/pbalykov"</a>
        <img src="https://img.shields.io/badge/codeforces-blue?style=for-the-badge&logo=codeforces&logoColor=white" alt="codeforces"/>
-  </a> <br>
-  <img src="https://komarev.com/ghpvc/?username=pbalykov&style=flat-square&color=blue" alt=""/>
+  </a> 
 </div>
         
 ###  :man_technologist: About Me :
