@@ -13,7 +13,6 @@
 ###  :man_technologist: About Me :
 - :zap: In my free time I program in C and read technical articles.
 - :seedling: Learning to write technical content and documentation.
-- :camera: I do photography.
 
 ### :hammer_and_wrench: Languages and Tools :
 <div align="center">
