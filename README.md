@@ -30,4 +30,14 @@
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pbalykov&theme=solarized_dark" alt="ststs" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pbalykov&theme=github_dark" />
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pbalykov&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pbalykov&layout=compact&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=pbalykov&theme=dark&hide_border=true" />
+</p>
 </div>
